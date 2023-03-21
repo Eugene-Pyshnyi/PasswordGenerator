@@ -77,3 +77,4 @@ public class PassKeyGen {
         System.out.println("Your new Password is:\n" + password.toString());
     }
 }
+//This code comes up with a new password for 12 symbols
